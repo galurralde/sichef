@@ -23,7 +23,7 @@ fun App() {
                 )
             }
             is Screen.Home -> {
-                // Aquí llamaremos a HomeScreen en el siguiente paso
+                // Próximamente HomeScreen()
             }
             else -> {}
         }
